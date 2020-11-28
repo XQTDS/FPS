@@ -31,5 +31,5 @@ UMG界面左上角显示玩家名和得分
 左下角显示弹夹中剩余弹药量
 
 
-链接：https://pan.baidu.com/s/13licGHQ19M9vW5QPXNCbjQ 
-提取码：8tnm
+链接：https://pan.baidu.com/s/1sCaY82AmBwzlN8kB7cwaxA
+提取码：o5jk
